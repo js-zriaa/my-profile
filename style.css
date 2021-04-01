@@ -31,7 +31,7 @@ a:hover {
 	}
 }
 
-@media (max-width: 600px) {
+@media (max-width: 640px) {
 	.container {
 		width: 400px;
 	}
@@ -53,7 +53,7 @@ a:hover {
 }
 
 .img-circle { 
-  border-radius: 50%;
+	border-radius: 50%;
 }
 
 .text-center {
